@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# simbia-data-analysis
-=======
 Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** sobre o **Diagnóstico da Gestão de Resíduos Sólidos Urbanos** nos municípios brasileiros, com o objetivo de compreender padrões, disparidades regionais e gargalos relacionados à Coleta Seletiva, Destinação dos Resíduos e Planos Municipais de Gestão.
 
 ---
@@ -104,4 +101,3 @@ pip install pandas matplotlib seaborn numpy
 ## Autores
 
 - [@MatheusMakita](https://github.com/MatheusMakita)
->>>>>>> f433e6d (feat: add full data analysis Simbia)
