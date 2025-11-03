@@ -1,3 +1,5 @@
+# Simbia - Análise Exploratória
+
 Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** sobre o **Diagnóstico da Gestão de Resíduos Sólidos Urbanos** nos municípios brasileiros, com o objetivo de compreender padrões, disparidades regionais e gargalos relacionados à Coleta Seletiva, Destinação dos Resíduos e Planos Municipais de Gestão.
 
 ---
